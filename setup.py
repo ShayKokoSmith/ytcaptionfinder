@@ -13,6 +13,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/ShayKokoSmith/ytcaptionfinder',
-    packages=['ytcaptionfinder'],
+    packages=['.'],
     install_requires=['yt_dlp','tblib'],
 )
