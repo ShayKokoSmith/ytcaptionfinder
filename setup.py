@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='ytcaptionfinder',
-    version='0.0.6',
+    version='0.0.7',
     author='Shay Koko-Smith',
     author_email='shay.smith314@gmail.com',
     description='Finds string in youtube videos',
